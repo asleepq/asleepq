@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @asleepq
-- 👀 I’m interested in doing some usefull tweakers or programms for windows
-- 🌱 I’m currently learning py, c#, c++
+- 👀 I’m interested in doing some usefull tweakers or programms, websites and py apps
+- 🌱 I’m currently learning py, c#, html and css
+- 👉 Contact me if you wanna collaborate or smth idk)
 
 
 <!---
